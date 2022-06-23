@@ -6,6 +6,7 @@
         <div class="abs-center">
             <form class="border p-3 form" v-on:submit.prevent="fnEntrar">
                 <div class="form-group mb-3">
+                    <h1>Apliación Concesionaria v1.0</h1>
                     <label class="control-label row justify-content-center">User</label>
                     <input type="text" class="form-control" id="user" v-model="usr">
                     <div id="user" class="form-text">Ingresa tu usuario para ingreso al sistema.</div>
