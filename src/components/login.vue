@@ -82,25 +82,6 @@ export default {
                 console.log(err);
             })
 
-            // var data = JSON.stringify({"i_opr":"VC","i_usr":"fpierri","i_ps":"123456","i_trn":100});
-
-            // var config = {
-            // method: 'post',
-            // url: 'https://lslc1jonj8.execute-api.eu-west-1.amazonaws.com/dev/login',
-            // headers: { 
-            //     'Content-Type': 'application/json'
-            // },
-            // data : data
-            // };
-
-            // axios(config)
-            // .then(function (response) {
-            // console.log(JSON.stringify(response.data));
-            // })
-            // .catch(function (error) {
-            // console.log(error);
-            // });
-
         }
     }
 }
