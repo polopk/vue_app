@@ -9,7 +9,7 @@
                     <h1>Apliación Concesionaria v1.0</h1>
                     <label class="control-label row justify-content-center">User</label>
                     <input type="text" class="form-control" id="user" v-model="usr">
-                    <div id="user" class="form-text">Ingresa tu usuario para ingreso al sistema.</div>
+                    <div id="user" class="form-text">Ingresa tu usuario para ingreso al sistema CAMBIO PARA VER EN LINEA.</div>
                 </div>
                 <div class="form-group mb-3">
                     <label for="exampleInputPassword1" class="form-label">Password</label>
